@@ -1,0 +1,24 @@
+header {
+    font-size: 3vw;
+    margin: auto;
+    text-align: center;
+    width: 40%;
+    
+}
+header h1 {
+    display:inline-block;
+}
+
+.gameSection {
+    display:flex;
+    justify-content: center;
+}
+
+.player {
+    margin: 0 50px;
+}
+
+.gameSection h3 {
+    text-align: center;
+}
+
